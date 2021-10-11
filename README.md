@@ -25,7 +25,7 @@ To cite Yun and Gramig (2021) in publications use:
 A BibTeX entry for LaTeX users is
 
   @article{,
-    title = {capn: Capital Asset Pricing for Nature},
+    title = {patial Panel Model of Crop Yield Response to Weather: Econometric Specification Strategies and Prediction Performance},
     author = {Seong D. Yun and Benjamin M. Gramig},
     year = {2021},
     journal = {Journal of Agricultural and Applied Economics},

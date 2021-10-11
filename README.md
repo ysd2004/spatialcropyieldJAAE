@@ -34,3 +34,15 @@ A BibTeX entry for LaTeX users is
     pages = {forthcoming}
   }
 ```
+
+2 Getting started:
+==================
+
+2.1. Download the data directly from this repository:
+--------------------------------------------------
+
+``` r
+    ## In R
+    install.packages("capn")
+    library(capn)
+```

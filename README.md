@@ -7,7 +7,7 @@ Department of Agricultural Economics\
 Mississippi State University\
 **<seong.yun@msstate.edu>**\
 **<https://sites.google.com/site/yunsd2004/>**\
-*Last updated: Dec 25, 2020*
+*Last updated: Oct 11, 2021*
 
 ------------------------------------------------------------------------
 

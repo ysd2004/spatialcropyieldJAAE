@@ -38,9 +38,10 @@ A BibTeX entry for LaTeX users is
 2 Getting started:
 ==================
 
-Download the R-file from this repository:
+Download the R-file from this repository into yoour working directory.
 
 ``` r
     ## In R
-    load(url("https://raw.github.com/ysd2004/spatialcropyieldJAAE/main/regdata.rda"))
+    download.file("https://raw.github.com/ysd2004/spatialcropyieldJAAE/main/regCode.R", "regCode.R")
 ```
+

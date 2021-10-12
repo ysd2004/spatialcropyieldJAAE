@@ -43,6 +43,5 @@ A BibTeX entry for LaTeX users is
 
 ``` r
     ## In R
-    install.packages("capn")
-    library(capn)
+    load(url("https://raw.github.com/ysd2004/spatialcropyieldJAAE/main/regdata.rda"))
 ```

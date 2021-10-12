@@ -44,4 +44,9 @@ Download the R-file from this repository into yoour working directory.
     ## In R
     download.file("https://raw.github.com/ysd2004/spatialcropyieldJAAE/main/regCode.R", "regCode.R")
 ```
+In *regCode.R*, it is implementable to download the regression data and peform the regression results in Table 3 and Table S2. Modifying the regression codes, all regression results in Yun and Gramig (2021) are reproducible.
 
+3 Variable Description:
+==================
+
+*regdata.rda* includes the following variables.

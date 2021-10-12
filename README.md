@@ -48,6 +48,8 @@ Download the R-file from this repository into yoour working directory.
 ```
 In *regCode.R*, it is implementable to download the regression data and perform the regression results in Table 3 and Table S2. Modifying the regression codes, all regression results in Yun and Gramig (2021) are reproducible.
 
+To download *regData.rda* and *regCode.R* files directly: [![DOI](https://zenodo.org/badge/416073206.svg)](https://zenodo.org/badge/latestdoi/416073206)
+
 3 Variable Description
 ==================
 

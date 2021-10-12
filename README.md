@@ -50,3 +50,7 @@ In *regCode.R*, it is implementable to download the regression data and peform t
 ==================
 
 *regdata.rda* includes the following variables.
+| Column No. | Variable Name  | Description (KOR)                                    |
+|:----:|:------------:|--------------------------------------------------------------|
+| 1  | stco     | State and County FIPS code                                         | 
+| 2  | year     | year                                                               | 

@@ -38,8 +38,7 @@ A BibTeX entry for LaTeX users is
 2 Getting started:
 ==================
 
-2.1. Download the data directly from this repository:
---------------------------------------------------
+Download the R-file from this repository:
 
 ``` r
     ## In R

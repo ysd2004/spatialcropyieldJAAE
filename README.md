@@ -1,6 +1,6 @@
 # R Data and Code: Yun and Gramig (JAAE 2021)
 
-This repository is to share the *R* data and code replicating the main results (Table 3 and Table S2) published in Yun and Gramig (JAAE 2021). Modifying the code peroperly, all results in Yun and Gramig (2021) can be reproducible.
+This repository is to share the *R* data and code replicating the main results (Table 3 and Table S2) published in Yun and Gramig (JAAE 2021). Modifying the code properly, all results in Yun and Gramig (2021) can be reproducible.
 
 GitHub Repository maintained by: Seong Yun\
 Department of Agricultural Economics\

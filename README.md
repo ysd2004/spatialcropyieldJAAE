@@ -1,6 +1,6 @@
 # R Data and Code: Yun and Gramig (JAAE 2021)
 
-This repository is to share the *R* data and code replicating the main results (Table 3 and Table S2) published in Yun and Gramig (JAAE 2021). Modifying the code properly, all results in Yun and Gramig (2021) can be reproducible.
+This repository is to share the *R* data and code replicating the main results (Table 3 and Table S2) published in Yun and Gramig (JAAE 2021). Modifying the code properly, all results in Yun and Gramig (2021) are reproducible.
 
 GitHub Repository maintained by: Seong Yun\
 Department of Agricultural Economics\
@@ -44,7 +44,7 @@ Download the R-file from this repository into yoour working directory.
     ## In R
     download.file("https://raw.github.com/ysd2004/spatialcropyieldJAAE/main/regCode.R", "regCode.R")
 ```
-In *regCode.R*, it is implementable to download the regression data and peform the regression results in Table 3 and Table S2. Modifying the regression codes, all regression results in Yun and Gramig (2021) are reproducible.
+In *regCode.R*, it is implementable to download the regression data and perform the regression results in Table 3 and Table S2. Modifying the regression codes, all regression results in Yun and Gramig (2021) are reproducible.
 
 3 Variable Description
 ==================

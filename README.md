@@ -54,6 +54,19 @@ In *regCode.R*, it is implementable to download the regression data and peform t
 |:----:|:------------:|--------------------------------------------------------------|
 | 1  | stco     | State and County FIPS code                                         | 
 | 2  | year     | year                                                               | 
-| 3  | corn     | Corn yield (bu/ac)                                                 | 
-| 4  | ppt      | Precipitation (mm)                                                 |
+| 3  | corn     | corn yield (bu/ac)                                                 | 
+| 4  | ppt      | precipitation (mm)                                                 |
 | 5  | ppt_sq   | ppt squared (ppt x ppt)                                            | 
+| 6  | t        | time trend ( 1 = 1981)                                             |
+| 7  | t_sq     | time trend squared (t x t)                                         |
+| 8  | whc      | area weighted soil water holding capacity (cm/cm3)                 |
+| 9  | om       | organic matter (%)                                                 |
+| 10 | kffactor | soil erosion K-factor                                              |
+| 11 | spH      | soil pH                                                            |
+| 12 | gdd8to32 | growing degree days (GDDs) for 8 deg C ~ 32 deg C                  |
+| 13 | gdd34    | extreem growing degree days (GDDs) for 34 deg C or above           |
+| 14 | gdd34rt  | sqaure root of gdd34                                               |
+| 15 - 22  | xit1 - xit8 | 8th order Chebyshev polynomials                           |
+| 23 | yit      | log(corn + 1)                                                      |
+| 24 | gdd8to32_sq | gdd8to32 sqaured (gdd8to32 x gdd8to32)                          |
+| 25 - 37 | wgdd8to32 - wxit8 | spatially lagged X variables                         |

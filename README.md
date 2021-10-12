@@ -1,5 +1,7 @@
 # R Data and Code: Yun and Gramig (JAAE 2021)
 
+[![DOI](https://zenodo.org/badge/416073206.svg)](https://zenodo.org/badge/latestdoi/416073206)
+
 This repository is to share the *R* data and code replicating the main results (Table 3 and Table S2) published in Yun and Gramig (JAAE 2021). Modifying the code properly, all results in Yun and Gramig (2021) are reproducible.
 
 GitHub Repository maintained by: Seong Yun\

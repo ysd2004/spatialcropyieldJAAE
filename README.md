@@ -1,4 +1,4 @@
-# R Data and Code: Yun and Gramig (JAAE 2021)
+# R Data and Code: Yun and Gramig (JAAE 2022)
 
 [![DOI](https://zenodo.org/badge/416073206.svg)](https://zenodo.org/badge/latestdoi/416073206)
 
@@ -9,7 +9,7 @@ Department of Agricultural Economics\
 Mississippi State University\
 **<seong.yun@msstate.edu>**\
 **<https://sites.google.com/site/yunsd2004/>**\
-*Last updated: Oct 11, 2021*
+*Last updated: Oct. 11, 2021*
 
 ------------------------------------------------------------------------
 

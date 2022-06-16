@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/416073206.svg)](https://zenodo.org/badge/latestdoi/416073206)
 
-This repository is to share the *R* data and code replicating the main results (Table 3 and Table S2) published in Yun and Gramig (JAAE 2021). Modifying the code properly, all results in Yun and Gramig (2021) are reproducible.
+This repository is to share the *R* data and code replicating the main results (Table 3 and Table S2) published in Yun and Gramig (JAAE 2021). Modifying the code properly, all results in Yun and Gramig (2022) are reproducible.
 
 GitHub Repository maintained by: Seong Yun\
 Department of Agricultural Economics\
@@ -18,22 +18,22 @@ Mississippi State University\
 Please cite this publication;
 
 ```r
-To cite Yun and Gramig (2021) in publications use:
+To cite Yun and Gramig (2022) in publications use:
 
-  Yun, Seong D. and Benjamin M. Gramig, 2021, "Spatial Panel Model of Crop Yield Response
+  Yun, Seong D. and Benjamin M. Gramig, 2022, "Spatial Panel Model of Crop Yield Response
   to Weather: Econometric Specification Strategies and Prediction Performance,"
-  Journal of Agricultural and Applied Economics (forthcoming).
+  Journal of Agricultural and Applied Economics, 54(1): 53-71.
 
 A BibTeX entry for LaTeX users is
 
   @article{,
     title = {Spatial Panel Model of Crop Yield Response to Weather: Econometric Specification Strategies and Prediction Performance},
     author = {Seong D. Yun and Benjamin M. Gramig},
-    year = {2021},
+    year = {2022},
     journal = {Journal of Agricultural and Applied Economics},
-    volume = {},
-    issue = {},
-    pages = {forthcoming}
+    volume = {54},
+    issue = {1},
+    pages = {53--71}
   }
 ```
 
@@ -46,7 +46,7 @@ Download the R-file from this repository into yoour working directory.
     ## In R
     download.file("https://raw.github.com/ysd2004/spatialcropyieldJAAE/main/regCode.R", "regCode.R")
 ```
-In *regCode.R*, it is implementable to download the regression data and perform the regression results in Table 3 and Table S2. Modifying the regression codes, all regression results in Yun and Gramig (2021) are reproducible.
+In *regCode.R*, it is implementable to download the regression data and perform the regression results in Table 3 and Table S2. Modifying the regression codes, all regression results in Yun and Gramig (2022) are reproducible.
 
 To download *regData.rda* and *regCode.R* files directly: [![DOI](https://zenodo.org/badge/416073206.svg)](https://zenodo.org/badge/latestdoi/416073206)
 
